@@ -1,0 +1,10 @@
+\\				   //
+  How to use the Tedious Terminator							
+//				   \\
+
+Step 1 : Scan in / Paste all Asset Tags into the 'AssetTags' text document
+Step 2 : Save text document ( DO NOT RENAME THE TEXT DOCUMENT ) 
+Step 3 : Run the 'TediousTerminator' Python File 
+Step 4 : A new Excel file will appear in the 'Tedious Terminator' Folder named '!!!Completed' , open and paste contents into shared Ewaste Sheet
+Step 5 : Delete '!!!Completed' and '!!!Missing' Files from the folder 
+Step 6 : Remove all Asset Tags from the 'AssetTags' Text Document 
